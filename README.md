@@ -1,3 +1,7 @@
+# Qozeem Adekunle | Data Analytics Portfolio
+
+Power BI • Microsoft Excel • Business Intelligence • Data Visualization
+
 # 📈 Sales Performance Dashboard (Power BI)
 
 A dynamic Power BI dashboard designed to analyze sales performance, monitor key business metrics, and provide interactive insights into revenue, profitability, customer behavior, and product performance.
