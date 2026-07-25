@@ -1,22 +1,31 @@
 # 📈 Sales Performance Dashboard (Power BI)
 
-An interactive Power BI dashboard designed to analyze sales performance through dynamic visualizations, KPI tracking, and business intelligence reporting.
+A dynamic Power BI dashboard designed to analyze sales performance, monitor key business metrics, and provide interactive insights into revenue, profitability, customer behavior, and product performance.
 
 ---
 
-# 📌 Project Overview
+# 📌 Business Problem
 
-This dashboard provides management with real-time insights into sales performance, profitability, customer behavior, and product performance using Power BI.
+Business leaders require timely and accurate insights into sales performance to improve profitability and identify opportunities for growth. Traditional reports often lack the flexibility needed to explore data from multiple perspectives.
+
+This dashboard addresses that challenge by providing an interactive Business Intelligence solution for monitoring sales performance and supporting strategic decision-making.
+
+---
+
+# 📖 Project Overview
+
+This Power BI dashboard consolidates sales data into an interactive reporting environment using DAX, Power Query, and data modeling techniques. It enables users to explore performance across products, customers, and sales trends while tracking important KPIs.
 
 ---
 
 # 🎯 Business Objectives
 
-- Monitor total sales and profit.
+- Monitor total sales and profitability.
 - Evaluate product performance.
+- Identify high-performing products.
 - Analyze customer purchasing behavior.
-- Identify high-performing sales categories.
 - Track monthly sales trends.
+- Support executive decision-making through interactive reporting.
 
 ---
 
@@ -31,9 +40,9 @@ This dashboard provides management with real-time insights into sales performanc
 - Total Sales
 - Total Profit
 - Profit Margin
-- Orders
+- Total Orders
 - Average Sales
-- Top Products
+- Top Selling Products
 
 ---
 
@@ -48,43 +57,48 @@ This dashboard provides management with real-time insights into sales performanc
 
 # 💡 Key Insights
 
-- Identified best-selling products.
-- Highlighted the most profitable customer segments.
-- Revealed sales trends across time periods.
-- Supported business decision-making with interactive reporting.
+- A small number of products generate a significant share of total sales revenue.
+- Customer purchasing behavior differs across product categories, creating opportunities for targeted marketing.
+- Monthly sales trends reveal periods of peak demand that can support inventory planning.
+- Profit margins vary across products, highlighting opportunities to improve pricing and product mix.
+- Interactive visualizations provide management with a real-time view of overall business performance.
 
 ---
 
 # 🚀 Business Recommendations
 
-- Focus marketing investment on top-performing products.
-- Improve sales strategies for lower-performing categories.
-- Monitor customer purchasing trends regularly.
-- Optimize pricing strategies using profitability analysis.
-- Expand inventory planning around high-demand periods.
+- Focus marketing campaigns on high-performing products while improving visibility for lower-performing items.
+- Optimize pricing strategies for products with lower profit margins.
+- Use customer purchasing trends to design targeted promotions.
+- Increase inventory before periods of high seasonal demand.
+- Continue monitoring KPIs through interactive Power BI dashboards to support ongoing business decisions.
 
 ---
 
 # 📈 Business Impact
 
-This dashboard helps decision-makers:
+The dashboard helps management to:
 
-- Improve business visibility.
-- Track KPIs in real time.
-- Identify profitable products.
-- Support strategic planning.
-- Enhance executive reporting.
+- Monitor business performance in real time.
+- Improve strategic planning.
+- Identify growth opportunities.
+- Track profitability more effectively.
+- Make faster, data-driven decisions.
 
 ---
 
 # 🚀 Skills Demonstrated
 
-- Power BI Dashboard Development
+- Power BI
 - DAX
-- Data Modeling
 - Power Query
+- Data Modeling
+- Data Cleaning
+- Dashboard Design
 - Data Visualization
+- KPI Development
 - Business Intelligence
+- Data Storytelling
 
 ---
 
